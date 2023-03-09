@@ -1,0 +1,95 @@
+/*==================== VARIABLES CSS ====================*/
+:root {
+  /*========== Colors ==========*/
+  /* Change favorite color */
+  --hue-color: 218;
+  --bordercolor:0; 
+
+  /* HSL color mode */
+  --first-color: hsl(var(--hue-color), 51%, 38%);
+  --first-color-second: hsl(var(--hue-color), 51%, 80%);
+  --border-color: hsl(var(--bordercolor), 0%, 0%);
+
+  /* Font Weight */
+  --header-font: 13px;
+  --subHeader-font: 12px;
+
+  /* Font Color */
+  --header-font-color: #efefef;
+  --subHeader-font-color: #000000;
+
+}
+
+/* ===== Defining global CSS =====*/
+*{
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  text-align: left;
+  vertical-align: bottom; 
+}
+
+body {
+  margin: 20px 40px 20px 40px;
+  /* width: 100%; */
+}
+
+
+.table  {
+  width: auto;
+  border-collapse:collapse;
+  border: 1px solid var(--border-color);
+}
+
+.table td{
+  border: 1px solid var(--border-color);
+  font-family:Arial, sans-serif;
+  font-size:var(--subHeader-font);
+  overflow:hidden;
+  padding:0px 5px;
+  word-break:normal;
+}
+.table th{
+  border: 1px solid var(--border-color);
+  font-family:Arial, sans-serif;
+  font-size: var(--header-font);
+  text-align:center;
+  background-color: var(--first-color);
+  color: var(--header-font-color);
+  overflow:hidden;
+  padding:0px 5px;
+  word-break:normal;
+}
+
+
+.table .table_subHeader_FAN,
+.table .table_subHeader_PU{
+  border: 1px solid var(--border-color);
+  background-color: var(--first-color-second);
+  color: var(--subHeader-font-color);
+}
+
+.table .table_subHeader_LT{
+  background-color: var(--first-color-second);
+  color: var(--subHeader-font-color);
+  text-align: center;
+}
+
+.table .table_subHeader_SIGN{
+  width: auto;
+  font-size:11px;
+  word-wrap: break-word;
+}
+
+.table .detail_space{
+  text-overflow: hidden;
+} 
+
+input{
+  width:50%;
+  outline: none;
+  border: none;
+  /* display: inline-block;
+  float: right;
+  padding-right: 50px; */
+}
