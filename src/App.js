@@ -15,7 +15,7 @@ function App() {
               <tr>
                 <td class="detail_space" colspan="3">
                   <label for="Date">Date:</label>
-                  <input type="text" name="date" id=""   />
+                  <input type="Date" name="date" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label for="Customer Name">Customer Name:</label>
