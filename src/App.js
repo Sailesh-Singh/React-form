@@ -15,45 +15,45 @@ function App() {
               <tr>
                 <td class="detail_space" colspan="3">
                   <label for="Date">Date:</label>
-                  <input type="text" name="date" id="" value="" />
+                  <input type="text" name="date" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label for="Customer Name">Customer Name:</label>
-                  <input type="text" name="CName" id="" value="" />
+                  <input type="text" name="CName" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="3">
                   <label for="Customer Address">Customer Address:</label>
-                  <input type="text" name="CAddress" id="" value="" />
+                  <input type="text" name="CAddress" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label for="Job Name">Job Name:</label>
-                  <input type="text" name="JbName" id="" value="" />
+                  <input type="text" name="JbName" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="3">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label for="Customer Contact">Customer Contact:</label>
-                  <input type="text" name="CuContact" id="" value="" />
+                  <input type="text" name="CuContact" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" id="ZipCode">
                   <label for="Zip Code">Zip Code:</label>
-                  <input type="text" name="ZiCode" id="" value="" />
+                  <input type="text" name="ZiCode" id=""   />
                 </td>
                 <td class="detail_space" colspan="2">
                   <label for="Plant Name">Plant Name:</label>
-                  <input type="text" name="PlName" id="" value="" />
+                  <input type="text" name="PlName" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label for="Customer Tel. No">Customer Tel. No:</label>
-                  <input type="text" name="CusTelNo" id="" value="" />
+                  <input type="text" name="CusTelNo" id=""   />
                 </td>
               </tr>
 
@@ -63,43 +63,43 @@ function App() {
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="7">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
             
@@ -117,51 +117,51 @@ function App() {
               <tr>
                 <td class="detail_space" colspan="6">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="0">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="6">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="0">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="6">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="0">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="6">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="0">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="6">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="0">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
 
@@ -182,113 +182,113 @@ function App() {
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space" colspan="2">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space" colspan="4">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
 
@@ -318,25 +318,25 @@ function App() {
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label for="Customer Signature">Customer Signature</label>
@@ -346,54 +346,54 @@ function App() {
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label for="Misc">Misc:</label>
                   </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label for="Tech Signature">Tech Signature</label>
@@ -403,36 +403,36 @@ function App() {
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
               <tr>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
                 <td class="detail_space">
                   <label for="Total">Total:</label>
                 </td>
                 <td class="detail_space">
                   <label></label>
-                  <input type="text" name="nul" id="" value="" />
+                  <input type="text" name="nul" id=""   />
                 </td>
               </tr>
             </tbody>
